@@ -1,0 +1,396 @@
+Solution:
+  o   o oo o oo
+oooo  oooo ooo 
+ oooo oooo oooo
+oooo oooo oooo 
+ o     o  oo o 
+      o o      
+     oooo      
+      oooo     
+      ooo      
+       o       
+        o      
+      oooo     
+     oooo      
+      oooo     
+       o       
+      o o      
+     oooo      
+      oooo     
+      ooo      
+       o       
+
+Solution:
+  o   o oo o oo
+oooo  oooo ooo 
+ oooo oooo oooo
+oooo oooo oooo 
+ o     o  oo o 
+      o o      
+     oooo      
+      oooo     
+      ooo      
+       o       
+      o o      
+      oooo     
+     oooo      
+      ooo      
+       o       
+      o o      
+     oooo      
+      oooo     
+      ooo      
+       o       
+
+Solution:
+ o    o oo  o  
+oooo  oooo ooo 
+ oooo oooo oooo
+oooo oooo oooo 
+  o    o   o o 
+      o o      
+     oooo      
+      oooo     
+      ooo      
+       o       
+      o o      
+      oooo     
+     oooo      
+      ooo      
+       o       
+      o o      
+      oooo     
+     oooo      
+      ooo      
+       o       
+
+Solution:
+ o    o oo  o  
+oooo  oooo ooo 
+ oooo oooo oooo
+oooo oooo oooo 
+  o    o   o o 
+      o o      
+     oooo      
+      oooo     
+      ooo      
+       o       
+        o      
+      oooo     
+     oooo      
+      oooo     
+       o       
+      o o      
+      oooo     
+     oooo      
+      ooo      
+       o       
+
+Solution:
+ o o  o oo  o  
+oooo  oooo ooo 
+ oooo oooo oooo
+ ooo oooo oooo 
+  o    o   o o 
+      o o      
+     oooo      
+      oooo     
+      ooo      
+       o       
+        o      
+      oooo     
+     oooo      
+      oooo     
+       o       
+      o o      
+      oooo     
+     oooo      
+      ooo      
+       o       
+
+Solution:
+ o o  o oo  o  
+oooo  oooo ooo 
+ oooo oooo oooo
+ ooo oooo oooo 
+  o    o   o o 
+      o o      
+     oooo      
+      oooo     
+      ooo      
+       o       
+      o o      
+      oooo     
+     oooo      
+      ooo      
+       o       
+      o o      
+      oooo     
+     oooo      
+      ooo      
+       o       
+
+Solution:
+ o    o oo  o  
+oooo  oooo ooo 
+ oooo oooo oooo
+oooo oooo oooo 
+  o    o   o o 
+      o        
+     oooo      
+      oooo     
+     oooo      
+       o       
+      o o      
+      oooo     
+     oooo      
+      ooo      
+       o       
+      o o      
+      oooo     
+     oooo      
+      ooo      
+       o       
+
+Solution:
+ o    o oo  o  
+oooo  oooo ooo 
+ oooo oooo oooo
+oooo oooo oooo 
+  o    o   o o 
+      o        
+     oooo      
+      oooo     
+     oooo      
+       o       
+        o      
+      oooo     
+     oooo      
+      oooo     
+       o       
+      o o      
+      oooo     
+     oooo      
+      ooo      
+       o       
+
+Solution:
+ o o  o oo  o  
+oooo  oooo ooo 
+ oooo oooo oooo
+ ooo oooo oooo 
+  o    o   o o 
+      o        
+     oooo      
+      oooo     
+     oooo      
+       o       
+        o      
+      oooo     
+     oooo      
+      oooo     
+       o       
+      o o      
+      oooo     
+     oooo      
+      ooo      
+       o       
+
+Solution:
+ o o  o oo  o  
+oooo  oooo ooo 
+ oooo oooo oooo
+ ooo oooo oooo 
+  o    o   o o 
+      o        
+     oooo      
+      oooo     
+     oooo      
+       o       
+      o o      
+      oooo     
+     oooo      
+      ooo      
+       o       
+      o o      
+      oooo     
+     oooo      
+      ooo      
+       o       
+
+Solution:
+ o    o oo  o  
+oooo  oooo ooo 
+ oooo oooo oooo
+oooo oooo oooo 
+  o    o   o o 
+      o        
+     oooo      
+      oooo     
+     oooo      
+       o       
+      o o      
+      oooo     
+     oooo      
+      ooo      
+       o       
+        o      
+      oooo     
+     oooo      
+      oooo     
+       o       
+
+Solution:
+ o    o oo  o  
+oooo  oooo ooo 
+ oooo oooo oooo
+oooo oooo oooo 
+  o    o   o o 
+      o        
+     oooo      
+      oooo     
+     oooo      
+       o       
+        o      
+      oooo     
+     oooo      
+      oooo     
+       o       
+        o      
+      oooo     
+     oooo      
+      oooo     
+       o       
+
+Solution:
+ o o  o oo  o  
+oooo  oooo ooo 
+ oooo oooo oooo
+ ooo oooo oooo 
+  o    o   o o 
+      o        
+     oooo      
+      oooo     
+     oooo      
+       o       
+        o      
+      oooo     
+     oooo      
+      oooo     
+       o       
+        o      
+      oooo     
+     oooo      
+      oooo     
+       o       
+
+Solution:
+ o o  o oo  o  
+oooo  oooo ooo 
+ oooo oooo oooo
+ ooo oooo oooo 
+  o    o   o o 
+      o        
+     oooo      
+      oooo     
+     oooo      
+       o       
+      o o      
+      oooo     
+     oooo      
+      ooo      
+       o       
+        o      
+      oooo     
+     oooo      
+      oooo     
+       o       
+
+Solution:
+ o    o oo  o  
+oooo  oooo ooo 
+ oooo oooo oooo
+oooo oooo oooo 
+  o    o   o o 
+      o o      
+     oooo      
+      oooo     
+      ooo      
+       o       
+      o o      
+      oooo     
+     oooo      
+      ooo      
+       o       
+        o      
+      oooo     
+     oooo      
+      oooo     
+       o       
+
+Solution:
+ o    o oo  o  
+oooo  oooo ooo 
+ oooo oooo oooo
+oooo oooo oooo 
+  o    o   o o 
+      o o      
+     oooo      
+      oooo     
+      ooo      
+       o       
+        o      
+      oooo     
+     oooo      
+      oooo     
+       o       
+        o      
+      oooo     
+     oooo      
+      oooo     
+       o       
+
+Solution:
+ o o  o oo  o  
+oooo  oooo ooo 
+ oooo oooo oooo
+ ooo oooo oooo 
+  o    o   o o 
+      o o      
+     oooo      
+      oooo     
+      ooo      
+       o       
+        o      
+      oooo     
+     oooo      
+      oooo     
+       o       
+        o      
+      oooo     
+     oooo      
+      oooo     
+       o       
+
+Solution:
+ o o  o oo  o  
+oooo  oooo ooo 
+ oooo oooo oooo
+ ooo oooo oooo 
+  o    o   o o 
+      o o      
+     oooo      
+      oooo     
+      ooo      
+       o       
+      o o      
+      oooo     
+     oooo      
+      ooo      
+       o       
+        o      
+      oooo     
+     oooo      
+      oooo     
+       o       
+

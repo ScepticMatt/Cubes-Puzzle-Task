@@ -1,0 +1,44 @@
+█░▒▓
+
+Classification of a Piece:
+12221
+23332
+23332
+23332
+12221
+
+1:Corner parts: shared between 3 pieces
+2:Edge parts: shared between 2 pieces
+3:Center parts: not shared, always filled
+
+Possible edge configurations: 
+001:a,ln ry 
+010:s,ln rn
+011:a,ln ry
+100:b,ly rn
+101:s,ly ry
+110:b,ly rn
+
+where 
+s specifies a self-symmetric configuration, and a and b are chiral partners.
+n/y specifies whether the edges on the left/right can be connected to a corner.
+
+Special rules:
+*remove duplicates under rotation and mirroring
+*flat border configurations are not allowed. (assumption: 10000, 10001 configuration not allowed for stability reasons)
+*corners must be connected to a edge piece
+
+Number of unique edge configurations: (count only one of the chiral partners for opposing edges on the same piece) 
+bottom,side and top edges: 6^2*4^2 possibilities each
+divide by 24 to account for roll/pitch/yaw rotations (octahedral symmetry)
+so 1/24 * 6^6*4^6 edge combinations.
+
+Corner configurations:
+each corner is connected to 6 edge configurations located in 3 sides.
+one and only one of each pair of connected edge can have a corner connected to it
+so for half of the unique edge configurations, a edge is possible on all 3 connected pieces
+and for the other half a edge is possible in 2 of the 3 connected pieces
+
+therefore, the total number of unique puzzles is:
+5/6 * 1/24 * 6^4*4^6 =  6635520 puzzles.
+
